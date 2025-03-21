@@ -2,7 +2,7 @@
 
 Responsive/adaptive Real Estate Website layout
 
-HTML5, CSS, SCSS, JS, SlickSlider are used.
+HTML5, CSS3, SCSS, JS, SlickSlider are used.
 
 Clear code without any framework.
 
